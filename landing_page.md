@@ -20,7 +20,7 @@ Com todo o processo feito e o código gerado pela I.A, colei dentro do VScode e 
 gerar imagens com o tema da landing page.
 
 ## 🚀 Resultados !!
-[Código da página]() [Imagens da Página](https://github.com/Dalcins/lab-natty-or-not/blob/main/1de71d1e-6889-413b-bbf9-49a735ca0356.jpg)
+[Código da página](https://github.com/Dalcins/lab-natty-or-not/blob/main/index.html) [Imagens da Página](https://github.com/Dalcins/lab-natty-or-not/blob/main/1de71d1e-6889-413b-bbf9-49a735ca0356.jpg)
 A página ficou muito bem estruturada e bem aesthetic para o lançamento do "Novo Video Game" as unicas alterações manuais realizadas por mim foi adicionar as imagens de acordo com o código e alteração do fundo da "Hero Section".
 A página não e funcional, ou seja, quaisquer botões que o usuario clique, nao será direcionado a nenhum lugar, sendo assim uma página Fake-Natty 👨‍⚖️🔨
 
